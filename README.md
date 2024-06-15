@@ -2,7 +2,7 @@
 
 Welcome to the Men's Fashion Online Shopping Platform! This is a web application that allows users to browse and purchase fashionable clothing and accessories for men. The platform provides a seamless and enjoyable shopping experience for customers, with a wide range of products and convenient features.
 
-![logo](https://github.com/Yash9276/webdproject/assets/123647814/a09426c6-a760-4b1f-bf7f-c5bb30182fc7)
+![logo](https://raw.githubusercontent.com/sr2005roy/PHOENIX/main/PHOENIX-Frontend/src/assets/img/phoenix1.jpg)
 
 ## Features
 
