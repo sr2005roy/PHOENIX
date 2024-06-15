@@ -1,0 +1,23 @@
+.category-card {
+  margin: auto;
+  /* margin: 0; */
+  width: 100px;
+  padding: 15px;
+  text-align: center;
+  display: inline-block;
+}
+
+.category-card a {
+  color: #000;
+  text-decoration: none;
+}
+
+.category-card h5 {
+  display: block;
+  padding: 0 10px;
+}
+
+.category-card img {
+  margin: 20px auto;
+  padding: 20px 0;
+}
